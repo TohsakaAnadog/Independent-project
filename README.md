@@ -1,4 +1,3 @@
 # Independent-project
-This is my independent project in HKUST 2019-2020 Fall.
-The current task is to create features of radios. Later task will include speed prediction based on predicted positions and
-data.
+This is my independent project in HKUST(The Hong Kong University of Science and Technology) during the whole academic year.
+The 
